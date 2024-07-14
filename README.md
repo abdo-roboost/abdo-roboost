@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Abdelrahman Mahmou, and I'm a Front-End Angular Developer</p>
+<p align="left">My name is Abdelrahman Mahmoud, and I'm a Front-End Angular Developer</p>
 
 ###
 
