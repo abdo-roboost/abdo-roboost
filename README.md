@@ -1,18 +1,40 @@
-<br clear="both">
+<h1 align="center">
 
-<h1 align="left">Hey 👋 What's up?</h1>
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
-###
+</h1>
 
-<p align="left">My name is Abdelrahman Mahmoud, and I'm a Front-End Angular Developer</p>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mahmoud</h1>
 
-###
+<h1 align="center">
+  
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
-<h2 align="left">About me</h2>
+</h1>
 
-###
+<h3 align="center">A passionate Full-Stack Web Developer using .Net from Egypt</h3>
 
-<p align="left">✨ Creating bugs since ...<br>🌱 I'm currently learning Angular <br>📫 How to reach me</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmman97" alt="abdelrahmman97" /></a> </p>
+
+- 🏫 `Fresh Graduate` from `FCI` Faculty of Computers & Information at Luxor University 2021. 
+- 👨‍🎓 Junior `Full Stack Web Developer` at `Roboost` [↗️](https://roboost.app).
+- 🧑‍💻 Currently learning `.Net Core` and `Angular`.
+- 🤓 Consistent with adding more to my knowledge.
+- 🤔 Have a `job offer` for me, here is my portfolio [↗️](https://abdelrahmman97.github.io/portfolio/).
+- 💬 Ask me about `HTML`, `CSS`, `JS`, `TypeScript`, `Bootstrap`, `Tailwind CSS`, `Angular`, `SQL` ,`.Net Core`
+
+<h3>✨ Experience</h3>
+
+- ITI 4 month training, `Full stack web development using .Net and Angular` track.
+- `Full Stack Developer` at Shefaa Al Orman Hospital [↗️](https://www.shefaorman.org/).
+- Currently working as `Front Angular Developer` at `Roboost` [↗️](https://roboost.app).
+
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdelrahman1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman1097" height="30" width="40" /></a>
+<a href="mailto:abdelrahman.m1097@gmail.com" target="blank"><img align="center" src="https://github.com/abdelrahmman97/abdelrahmman97/assets/60822166/bdaec1ed-db71-49eb-a250-4bdf678b69a9" alt="abdelrahman.m1097@gmail.com" height="40" width="40" /></a>
+</p>
+
 
 ###
 
